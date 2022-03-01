@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unto his Grace his Majesties High Commissioner and the right honourable the Estates of Parliament, the petition of Captain John Slezer.</title>
+            <author>Slezer, John, d. 1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05883</idno>
+            <idno type="STC">Wing S3993B</idno>
+            <idno type="STC">ESTC R187145</idno>
+            <idno type="EEBO-CITATION">52614949</idno>
+            <idno type="OCLC">ocm 52614949</idno>
+            <idno type="VID">176186</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05883)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176186)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2763:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Unto his Grace his Majesties High Commissioner and the right honourable the Estates of Parliament, the petition of Captain John Slezer.</title>
+                  <author>Slezer, John, d. 1714.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Slezer, John, d. 1714. --  Theatrum Scotiæ.</term>
+               <term>Surveys --  Plotting --  Scotland --  Early works to 1800.</term>
+               <term>Surveying --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:176186:1"/>
+            <head>Unto his Grace His Majeſties High Commisſioner and the right Honour able Estates of parliament, <hi>The PETITION of</hi> Captain <hi>John Slezer</hi>
+            </head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat there is a Petition to be preſented to your Grace and the right Honourable the Eſtates of Parliament, craving that the Tunnage-money impoſed <hi>Anno</hi> 1695, towards defraying the Charges o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the reſpective Works undertaken by Mr. <hi>Adair</hi> and your Petitioner may be taken off, in reſpect they pretend there is ſufficiently collected to do the Buſineſs.</p>
+            <p>As to which Captain <hi>Slezer</hi> humbly repreſents in the behalf of himſelf, that all the Draughts relating to his Work are drawn, and moſt of them alſo engraven, and the De<g ref="char:EOLhyphen"/>ſcription part wants only to be reviſed by a Committee of the Privy Council, which their Lordſhips did lately judge proper to be done before the Work ſhould go to the Pries<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> And both Volumes (now lying upon the Clerks Table) will teſtifie the forwardneſs of the work; By which alſo it doeth clearly appear how faithfully, yea and far beyond what could be ex<g ref="char:EOLhyphen"/>pected, your Petitioner hath followed out the Deſign of the Act of Parliament.</p>
+            <p>Notwithſtanding of this forwardneſs, and that their Lordſhips of the privy Council have by their Act 28. <hi>June</hi> laſt, found that your Petitioners Deburſements upon this Work do a<g ref="char:EOLhyphen"/>mount to 1590 <hi>lib: ster.</hi> yet all he hath received is but 350 <hi>lib. ſter.</hi> in Money, and 130 <hi>lib. ſter.</hi> by precepts ſtill unanſwered; whereby it is evident that there is not ſufficiently col<g ref="char:EOLhyphen"/>ected. And till the contrair be made appear, it is hoped that either this Fund will be con<g ref="char:EOLhyphen"/>tinued, or ſome other granted in favours of your Petitioner, who hath paunded even all his Credit, and hath hazerded the Ruine of himſelf and his numerous Family, having no<g ref="char:EOLhyphen"/>thing now left him to beſtow upon the breading of his many Children, who are of Age to be put to Imployments: And all this he hath done upon the publick Faith of this Act of Tunnage, which expreſly declares his work to be very much to the Honour, Advantage and Reputation of the Kingdom; Yea, the Encouragement he had for proſecuting of the Work was ſuch, that the Committee of Trade <hi>anno</hi> 1695, (to whom the matter of your Petitioners Work was remitted) were ſo ſenſible that the Deſign ought to be incouraged, that by their Report to the Parliament, upon which the Tunnage Act was paſt: They did declare, that rather than a Fund ſhould be wanting towards reimburſing your Petitioner, and finiſhing this Work, that a Weeks Ceſs ſhould have been laid on for effectuating this ſo Noble and Honourable Deſign, as the Report doth expreſs it: Upon the faith of which, your petitioner hath ſo cheerfully, and with all the Fidelity and pains imaginable, gone on in the Work and brought it to its preſent Condition.</p>
+            <p>You petitioner begs leave further to repreſent, that albeit the Caſh-keeper and <hi>Hugh Brown</hi> have been moſt exact and diligent in their endeavours to bring the ſeveral Collectors to give a faithful accompt of their Intromiſſions with this Fund, yet there are con<g ref="char:EOLhyphen"/>ſiderable Concealments and Malverſations amongſt ſome of them, and others as they go off, detains exorbitant Sums, upon pretence of their pains, without any Warrand, and contrair to the Deſign of the Act of Parliament. It is therefore humbly propoſed, that the bygone Reſts detained and concealed of this Fund not payed in to the Caſh keepers, may be put to a publick Roup, at the ſight of the Lords of his Majeſties privy Council, and that for the incouragement of thoſe who intend to bid, it be furthwith ordered that all Col<g ref="char:EOLhyphen"/>lectors be obliged to expoſe their Books, whereby no doubt theſe Reſts will turn to a very good account, and the like Abuſes diſcouraged in time coming.</p>
+            <p>And ſince Mr. <hi>Adair</hi> your petitioners Partner in the Tunnage Act is cleared of his whole bygone pretentions of pains as well as Deburſements, amounting to 22127 <hi>lib. ſcots,</hi> in<g ref="char:EOLhyphen"/>cluding what he chargeth that it will coſt him for navigating the Weſt Coaſts of <hi>Scotland,</hi> and the Iſlands adjacent thereunto; That therefore the product ariſing from the Farm of of theſe Reſts be applyed at the ſight of the Lords of the privy Courcil, towards payment <hi>protanto</hi> or your petitioners Ballance of Deburſement, whereby he may get Credit, and be
+<pb n="2" facs="tcp:176186:2"/>put in a Capacity to finiſh what is begune; which Ballance being payed in to him, your petitioner obligeth himſelf to finiſh and print both the Volumes, which otherways would be impoſſible for him to do. But when done, he ſhall demand no farder Encouragement but what any inſuing Seſſion of Parliament, or his Majeſties privy Council ſhall think the Work deſerves.</p>
+            <p>Theſe two Volumes when finiſhed (could not be ſold by any private undertaker, un<g ref="char:EOLhyphen"/>der ſeven or eight pound <hi>Ster.</hi> Yet if his Ballance of 1240. <hi>lib. Ster.</hi> be payed to him, it will enable him to go to <hi>London</hi> and <hi>Holland</hi> as is neceſſar, that he may (towards the diſpatch of the work) diſtribute amongſt the Ingravers, theſe Draughts which remain un<g ref="char:EOLhyphen"/>cut, and likewiſe order the printing of both Volumes, and provide what paper is moſt proper for the uſe; Which when done, your petiitoner ingadges himſelf for the benefit of the publick, to put at leaſt two hundred Coppies of both Volumes, in the hands of ſuch perſons as ſhall ſell them, at no more than 20 <hi>ſh. Ster.</hi> for each Volume, to ſuch of the Nobility, Gentry and Burrows as ſhall be deſirious of them, and ſubſcribe their Names with in ſix weeks after the pasſing this Act now deſired in your petitioners Favours. And no perſon ſubſcribing ſhall pay in any Money, till the Volumes be delivered to him; The Captain demanding Subſcriptions only, that he may the better know what number of Cop<g ref="char:EOLhyphen"/>pies to provide.</p>
+            <p>
+               <hi>May it therefore pleaſe your Grace, and the Right Honourable the Estates of parliament, either to continue the Tunnage till your petitioner be Re-im<g ref="char:EOLhyphen"/>burſed, or otherwiſe to grant him ſome other Fond for the ſame; And towards making effectual what is collected, that your Grace and the Right Honourable the Estates of parliament, would be pleaſed to cauſe the bygone Rests and Concealments, and the Detentions of this Tunnage Money not pay<g ref="char:EOLunhyphen"/>ed into the Caſh keeper, to be rouped at the ſight of their Lordſhips of the privy Council, and in the mean time, that all Collectors expoſe their Books, whereby ſuch as are deſirous may be put in a condition to bid. And ſince <hi>Mr. Adair</hi> is already payed of his whole Accompts and Claims, extending to 22127 <hi>lib. Scots</hi> partly in money, and partly by precepts, to be payed out of the first and readiest which is als good as money; That therefore the product of this Roup may be applyed only towards the clearing of your petitiones Ballance of by<g ref="char:EOLhyphen"/>gones amounting to 1240 <hi>lib. Ster.</hi> and if this Fond fall ſhort of what is due to your petitioner, your Grace, and the Right honourable the Eſtates of parlia<g ref="char:EOLhyphen"/>ment would be pleaſed to lay down ſome other Fond for making up the remander, Whereby your petitioner may be enabled to finiſh his work, and he and his Fami<g ref="char:EOLhyphen"/>may no be expoſed to ruine by having thus far advanced this work, upon the faith of ſo clear an Act of parliament, and ſo lately paſt in his favours, <hi>And your petitioner ſhall ever pray.</hi>
+               </hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
